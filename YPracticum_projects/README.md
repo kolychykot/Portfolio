@@ -1,7 +1,7 @@
 # Проекты, выполненные на базе Яндекс Практикума
 | Название проекта | Описание проекта | Используемые библиотеки |
 | ---------------- | ---------------- | ----------------------------- |
-| [Анализ приложения аренды самокатов](https://github.com/kolychykot/Portfolio/tree/main/YPracticum_projects/Scooter_rental) | Проверены гипотезы сервиса аренды самокатов, чтобы помочь вырастить бизнес |`Pandas`,`Matplotlib`, `NumPy`, `SciPy`|
+| [Анализ приложения аренды самокатов](https://github.com/kolychykot/Portfolio/tree/main/YPracticum_projects/Scooter_rental) | Проанализированы данные онлайн-сервиса аренды самокатов и определены зависимости между длительностью, расстоянием поездок и подпиской пользователей. |`Pandas`,`Matplotlib`, `NumPy`, `SciPy`|
 | [Анализ рынка видеоигр](https://github.com/kolychykot/Portfolio/tree/main/YPracticum_projects/Video_games_analysis) | Используя исторические данные о продажах компьютерных игр, оценках пользователей и экспертов, жанров и платформ, выявлены закономерности, определяющие успешность игр | `Pandas`,`Matplotlib`, `NumPy`, `SciPy`|
 | [Анализ бизнес-показателей мобильного приложения](https://github.com/kolychykot/Portfolio/tree/main/YPracticum_projects/BI_analysis) | Проведен анализ данных мобильного приложения ProcrastinatePRO+. Рассчитаны различные метрики, проведен когортный анализ (LTV, CAC, Retention rate, DAU, WAU, MAU и т.д.) на основе которых предложены возможности увеличения прибыли | `Pandas`,`Seaborn`|
 | [Оценка результатов А/В тестирования](https://github.com/kolychykot/Portfolio/tree/main/YPracticum_projects/AB_testing) | Используя данные интернет-магазина приоритезированы гипотезы, произведена оценка результатов A/B-тестирования различными методами | `Pandas`,`Matplotlib`,`SciPy`|
